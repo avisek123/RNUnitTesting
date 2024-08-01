@@ -1,8 +1,10 @@
 import {add} from '../src/utils/math';
 
-test('addition should return 4', () => {
-  const a = 2;
-  const b = 2;
-
-  expect(add(a, b)).toBe(4);
+describe('add function', () => {
+  it('should correctly add two numbers', () => {
+    expect(add(1, 2)).toBe(3);
+    expect(add(-1, -1)).toBe(-2);
+    expect(add(0, 0)).toBe(0);
+    expect(add(-1, 1)).toBe(0);
+  });
 });
