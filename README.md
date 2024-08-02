@@ -5,7 +5,7 @@
 
 
 
-# Unit testing with jest - React Native
+ ♎️ Unit testing with jest & React Native Testing Library.
 
 When working on a project with a tight deadlines, it's easy to skip writing tests. But once you learn how to write them, you'll find it's not that hard and the benefits are huge. Writing tests helps you catch problems early and makes your job easier in the long run.
 
