@@ -1,9 +1,11 @@
 
-![3911318](https://github.com/user-attachments/assets/2e161b48-42ad-49d2-90f8-23172c4bbaf0)
+![Unit testing](https://github.com/user-attachments/assets/7286dbbc-27f6-4c6e-bdd4-78be24ce693f)
 
 
 
-# Unit testing with jest - React Native
+
+
+## Unit Testing in Jest & React Native Testing Library.
 
 When working on a project with a tight deadlines, it's easy to skip writing tests. But once you learn how to write them, you'll find it's not that hard and the benefits are huge. Writing tests helps you catch problems early and makes your job easier in the long run.
 
