@@ -9,7 +9,7 @@ When working on a project with a tight deadlines, it's easy to skip writing test
 This project was created for the tutorial [Learn how to perform unit testing in React Native with Jest & React Native Tetsing Library]
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-## Written test case.
+## Written test case with Jest.
 
 - ✅ Add Two Numbers
 - Multiply Two Numbers
