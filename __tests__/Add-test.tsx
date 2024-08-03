@@ -1,4 +1,4 @@
-import {add} from '../src/utils/math';
+import {add} from '../src/utils/Functions/add';
 
 describe('add function', () => {
   it('should correctly add two numbers', () => {
