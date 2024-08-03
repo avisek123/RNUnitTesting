@@ -22,7 +22,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - Check if a Array is Empty
 - Find the Square of a Number
 
-### Common Issues and Troubleshooting
+## Common Issues and Troubleshooting
 
 **Error: Module not found**
 
