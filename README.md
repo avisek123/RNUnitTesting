@@ -31,3 +31,8 @@ Ensure all required modules are installed and correctly referenced in your confi
 **Error: Cannot find module '@testing-library/react-native'**
 
 Verify that `@testing-library/react-native` is installed and included in your `devDependencies`. If needed, run `npm install --save-dev @testing-library/react-native`.
+
+## 🤔 How to contribute
+
+Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/avisek123/RNUnitTesting/issues).
+Contributions are welcome and are greatly appreciated! Every little bit helps.
