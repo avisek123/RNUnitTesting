@@ -12,8 +12,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Written test case with Jest.
 
 - ✅ [Add Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Add-test.tsx)
-- ✅ Multiply Two Numbers
-- ✅ Check if a Number is Even.
+- ✅ [Multiply Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Mul.test.tsx)
+- ✅ [Check if a Number is Even](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Even.test.tsx)
 - Find the Length of a String
 - Concatenate Two Strings
 - Convert a String to Uppercase
