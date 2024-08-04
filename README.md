@@ -12,7 +12,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Written test case with Jest.
 
 - ✅ Add Two Numbers
-- Multiply Two Numbers
+- ✅ Multiply Two Numbers
 - Check if a Number is Even or Odd
 - Find the Length of a String
 - Concatenate Two Strings
