@@ -11,7 +11,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Written test case with Jest.
 
-- ✅ Add Two Numbers(https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Add-test.tsx)
+- ✅ [Add Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Add-test.tsx)
 - ✅ Multiply Two Numbers
 - ✅ Check if a Number is Even.
 - Find the Length of a String
