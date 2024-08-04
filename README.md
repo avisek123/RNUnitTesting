@@ -36,3 +36,9 @@ Verify that `@testing-library/react-native` is installed and included in your `d
 
 Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/avisek123/RNUnitTesting/issues).
 Contributions are welcome and are greatly appreciated! Every little bit helps.
+
+ Thanks! ❤️
+  <br/>
+  [avisek123.github.io](https://github.com/avisek123)
+  <br/>
+  Avisek
