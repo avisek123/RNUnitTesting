@@ -13,7 +13,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 - ✅ Add Two Numbers
 - ✅ Multiply Two Numbers
-- Check if a Number is Even or Odd
+- ✅ Check if a Number is Even.
 - Find the Length of a String
 - Concatenate Two Strings
 - Convert a String to Uppercase
