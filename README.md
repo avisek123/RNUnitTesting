@@ -14,8 +14,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - ✅ [Add Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Add-test.tsx)
 - ✅ [Multiply Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Mul.test.tsx)
 - ✅ [Check if a Number is Even](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Even.test.tsx)
-- Find the Length of a String
-- Concatenate Two Strings
+- ✅ [Find the Length of a String](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/StringLenght.test.tsx)
+- ✅ [Concatenate Two Strings](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/StringsConcatenate.test.tsx)
 - Convert a String to Uppercase
 - Check if a String Contains a Substring
 - Check if a Number is Positive
