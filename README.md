@@ -11,16 +11,16 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Written test case with Jest.
 
-- ✅ [Add Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Add-test.tsx)
-- ✅ [Multiply Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Mul.test.tsx)
-- ✅ [Check if a Number is Even](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/Even.test.tsx)
-- ✅ [Find the Length of a String](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/StringLenght.test.tsx)
-- ✅ [Concatenate Two Strings](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/StringsConcatenate.test.tsx)
-- ✅ [Convert a String to Uppercase](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/StringToUpperCase.test.ts)
-- ✅ [Check if a String Contains a Substring](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/SubString.test.ts)
-- ✅ [Check if a Number is Positive](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/CheckPositiveNumber.test.ts)
-- ✅ [Check if a Array is Empty](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/EmptyArray.test.ts)
-- ✅ [Find the Square of a Number](https://github.com/avisek123/RNUnitTesting/blob/main/__tests__/FindSqaure.test.ts)
+- ✅ [Add Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/Add-test.ts)
+- ✅ [Multiply Two Numbers](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/Mul.test.ts)
+- ✅ [Check if a Number is Even](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/Even.test.ts)
+- ✅ [Find the Length of a String](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/StringLenght.test.ts)
+- ✅ [Concatenate Two Strings](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/StringsConcatenate.test.ts)
+- ✅ [Convert a String to Uppercase](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/StringToUpperCase.test.ts)
+- ✅ [Check if a String Contains a Substring](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/SubString.test.ts)
+- ✅ [Check if a Number is Positive](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/CheckPositiveNumber.test.ts)
+- ✅ [Check if a Array is Empty](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/EmptyArray.test.ts)
+- ✅ [Find the Square of a Number](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/FindSqaure.test.ts)
 
 ## Common Issues and Troubleshooting
 
