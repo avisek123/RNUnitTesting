@@ -1,4 +1,4 @@
-import {IsEmptyArray} from '../src/utils/Functions/IsEmptyArray';
+import {IsEmptyArray} from '../Functions/IsEmptyArray';
 
 describe('Check Array is empty or not', () => {
   it('Check [] is an empty array ', () => {

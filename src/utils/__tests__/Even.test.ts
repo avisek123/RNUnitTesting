@@ -1,4 +1,4 @@
-import {even} from '../src/utils/Functions/even';
+import {even} from '../Functions/even';
 
 describe('Testing for Even number', () => {
   it('check 2 is even', () => {

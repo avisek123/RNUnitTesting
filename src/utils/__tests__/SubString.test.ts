@@ -1,4 +1,4 @@
-import {containSubStrings} from '../src/utils/Functions/Substring';
+import {containSubStrings} from '../Functions/Substring';
 
 describe('Check if the main string contains the specified substring.', () => {
   it('check hello world contain world or not', () => {

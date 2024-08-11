@@ -1,4 +1,4 @@
-import {mul} from '../src/utils/Functions/mul';
+import {mul} from '../Functions/mul';
 
 describe('Multipication function', () => {
   it('Should correctly multiply 2 numbers', () => {

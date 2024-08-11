@@ -1,4 +1,4 @@
-import {concatenateStrings} from '../src/utils/Functions/StringsConcatenate';
+import {concatenateStrings} from '../Functions/StringsConcatenate';
 
 describe('Strings Concatenate', () => {
   it('add two strings', () => {
