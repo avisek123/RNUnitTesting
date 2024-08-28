@@ -1,10 +1,10 @@
 import React from 'react';
-import {InputField} from './src/components';
+import {ImageComp} from './src/components';
 
 const App = () => {
   return (
     <>
-      <InputField />
+      <ImageComp />
     </>
   );
 };
