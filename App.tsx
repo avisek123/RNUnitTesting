@@ -1,10 +1,10 @@
 import React from 'react';
-import {ScrollViewComp} from './src/components';
+import {SimpleCard} from './src/components';
 
 const App = () => {
   return (
     <>
-      <ScrollViewComp />
+      <SimpleCard />
     </>
   );
 };
