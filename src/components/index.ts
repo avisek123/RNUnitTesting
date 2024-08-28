@@ -6,3 +6,4 @@ export {default as InputField} from './InputField';
 export {default as ImageComp} from './ImageComp';
 export {default as ScrollViewComp} from './ScrollViewComp';
 export {default as SimpleCard} from './SimpleCard';
+export {default as Counter} from './Counter';

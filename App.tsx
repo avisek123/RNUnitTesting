@@ -1,10 +1,10 @@
 import React from 'react';
-import {SimpleCard} from './src/components';
+import {Counter} from './src/components';
 
 const App = () => {
   return (
     <>
-      <SimpleCard />
+      <Counter />
     </>
   );
 };
