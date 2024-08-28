@@ -1,7 +1,7 @@
 import React from 'react';
 import {ScrollView, Text, View, StyleSheet} from 'react-native';
 
-const ScrollViewComponent: React.FC = () => {
+const ScrollViewComp: React.FC = () => {
   return (
     <ScrollView contentContainerStyle={styles.container} testID="scrollview">
       <View style={styles.content}>
@@ -25,4 +25,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default ScrollViewComponent;
+export default ScrollViewComp;
