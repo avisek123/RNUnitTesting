@@ -1,10 +1,10 @@
 import React from 'react';
-import {TextComp} from './src/components';
+import {InputField} from './src/components';
 
 const App = () => {
   return (
     <>
-      <TextComp />
+      <InputField />
     </>
   );
 };
