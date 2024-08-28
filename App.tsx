@@ -1,10 +1,10 @@
 import React from 'react';
-import {ImageComp} from './src/components';
+import {ScrollViewComp} from './src/components';
 
 const App = () => {
   return (
     <>
-      <ImageComp />
+      <ScrollViewComp />
     </>
   );
 };
