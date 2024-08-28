@@ -1,10 +1,10 @@
 import React from 'react';
-import {Greetings} from './src/components';
+import {ButtonComp, Greetings} from './src/components';
 
 const App = () => {
   return (
     <>
-      <Greetings />
+      <ButtonComp />
     </>
   );
 };
