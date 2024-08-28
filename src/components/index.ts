@@ -8,3 +8,4 @@ export {default as ScrollViewComp} from './ScrollViewComp';
 export {default as SimpleCard} from './SimpleCard';
 export {default as Counter} from './Counter';
 export {default as Toggle} from './Toggle';
+export {default as TextInputWithLabel} from './TextInputWithLable';
