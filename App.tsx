@@ -1,10 +1,10 @@
 import React from 'react';
-import {ButtonComp, Greetings} from './src/components';
+import {TextComp} from './src/components';
 
 const App = () => {
   return (
     <>
-      <ButtonComp />
+      <TextComp />
     </>
   );
 };
