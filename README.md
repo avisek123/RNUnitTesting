@@ -23,16 +23,16 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - ✅ [Find the Square of a Number](https://github.com/avisek123/RNUnitTesting/blob/main/src/utils/__tests__/FindSqaure.test.ts)
 
 ## Written test case for UI elements.
-- ✅ [Greetings](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/Greetings.test.tsx)
-- ✅ [ButtonComp](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/ButtonComp.test.tsx)
-- ✅ [Counter](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/Counter.test.tsx)
-- ✅ [Hello World](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/HelloWorld.test.tsx)
-- ✅ [ImageComp](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/ImageComp.test.tsx)
-- ✅ [Input Field](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/InputField.test.tsx)
-- ✅ [Simple Card](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/SimpleCard.test.tsx)
-- ✅ [ScrollView Comp](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/ScrollViewComp.test.tsx)
-- ✅ [TextComp](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/TextComp.test.tsx)
-- ✅ [Toggle](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/Toggle.test.tsx)
+- ✅ [Simple Greetings UI](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/Greetings.test.tsx)
+- ✅ [Simple Button Component with Alert Message](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/ButtonComp.test.tsx)
+- ✅ [Simple Incremant Counter UI](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/Counter.test.tsx)
+- ✅ [Hello World UI](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/HelloWorld.test.tsx)
+- ✅ [Simple Image Component UI](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/ImageComp.test.tsx)
+- ✅ [Simple Input Text Field](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/InputField.test.tsx)
+- ✅ [Simple Card UI with Title & Content](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/SimpleCard.test.tsx)
+- ✅ [Simple ScrollView Component](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/ScrollViewComp.test.tsx)
+- ✅ [Simple TextComponent within the Parent View](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/TextComp.test.tsx)
+- ✅ [Simple Toggle UI](https://github.com/avisek123/RNUnitTesting/blob/main/src/components/__tests__/Toggle.test.tsx)
   
 
 ## Common Issues and Troubleshooting
