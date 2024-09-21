@@ -55,3 +55,6 @@ Contributions are welcome and are greatly appreciated! Every little bit helps.
   [avisek123.github.io](https://github.com/avisek123)
   <br/>
   Avisek
+
+  ![WhatsApp Image 2024-09-19 at 7 49 24 PM](https://github.com/user-attachments/assets/b6ba0323-0ce0-476d-938e-00d40cf449a1)
+
