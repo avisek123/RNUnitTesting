@@ -10,7 +10,7 @@ test('renders InputField and updates value', () => {
   expect(getByDisplayValue('')).toBeTruthy();
 
   // Simulate entering text
-  fireEvent.changeText(getByTestId('input-field'), 'New text');
+  fireEvent.changeText(getByTestId('single-input-field'), 'New text');
 
   // After entering text, the input field value should be updated
   expect(getByDisplayValue('New text')).toBeTruthy();
