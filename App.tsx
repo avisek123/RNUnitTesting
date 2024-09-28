@@ -1,10 +1,10 @@
 import React from 'react';
-import {Counter} from './src/components';
+import Login from './src/components/Login';
 
 const App = () => {
   return (
     <>
-      <Counter />
+      <Login />
     </>
   );
 };
