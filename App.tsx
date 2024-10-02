@@ -1,10 +1,10 @@
 import React from 'react';
-import Login from './src/components/Login';
+import AllPosts from './src/components/AllPosts';
 
 const App = () => {
   return (
     <>
-      <Login />
+      <AllPosts />
     </>
   );
 };
