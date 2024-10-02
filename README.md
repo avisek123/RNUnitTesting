@@ -57,8 +57,3 @@ Thanks! ❤️
 Avisek
 
 ![WhatsApp Image 2024-09-19 at 7 49 24 PM](https://github.com/user-attachments/assets/b6ba0323-0ce0-476d-938e-00d40cf449a1)
-
-- Login Form
-- Simple Api Call
-- FlatList Or ScrollView with array map
-- Todo Application
